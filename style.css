@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+        header{background-color: rgb(165, 24, 24);
+     color: black;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;}
+    
+
+    .cabecalho-imagem{
+        width: 20%;}
+    li {
+        display: inline-block;
+        margin: 0 16px;
+        padding: 24px 0;
+        font-size: 24px; }
+    h1 {
+        margin: 0 16px;
+        padding: 24px 0;
+        font-size: 24px;}
+
+.escola-imagem{
+    width:20%;
+    }
+.escola {
+    background-image: linear-gradient(red,black) ;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;}
+
+
+.escola-conteudo
+{width: 50%;}
+
+.escola-titulo
+{padding: 50px 30px; }
+
+.aluno-um{
+    width: 10%;
+}
+.estudante-icone
+{ width: 50px;}
+.estudante-div
+{text-align: center;}
+
+
+.estudante-titulo
+{
+text-align: center;
+
+}
