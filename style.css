@@ -40,7 +40,8 @@ padding: 24px 0;}
 {padding: 50px 30px; }
 
 .aluno-um{
-    width: 10%;
+    width: 30%;
+    height: 200px;
 }
 .estudante-icone
 { width: 50px;}
@@ -52,4 +53,16 @@ padding: 24px 0;}
 {
 text-align: center;
 
+}
+
+.estudante-todos {
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+footer{
+    background-color: red;
+    color: aliceblue;
+}
+.estudante{
+    background-color: black;
 }
